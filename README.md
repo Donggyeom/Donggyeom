@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 반갑습니다!
+##### 스프링 백엔드 공부중인 개발자 김동겸입니다.
+
+
+## Activity
+### 개발 경력
+- 공군 체계개발실 웹 어플리케이션 유지보수 담당(2019.07 ~ 2022.04)
+
+### 구름 쿠버네티스 전문가 양성 과정 7기 (2022.10 ~ )
 
 <!--
 **Donggyeom/Donggyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</br>
